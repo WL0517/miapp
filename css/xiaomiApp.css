@@ -293,16 +293,19 @@ body{
 }
 .foot-list>div{
 	width:1.396rem;
-	height:0.748em;
+	/* height:0.748em; */
 	font-size: .22rem;
 }
 .foot-list>div>img{
 	width:0.4rem;
 	height:0.4rem;
 	display:block;
+	margin:0 auto;
 }
 .foot-list>div>span{
 	/* font-size: .22rem; */
 	width:0.44rem;
 	height:0.272rem;
+	margin:0 auto;
+	display:block;
 }
